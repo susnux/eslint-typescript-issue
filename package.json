@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.ts,.vue ./"
+  },
+  "dependencies": {
+    "typescript": "^4.1.3",
+    "vue": "3.0.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "@vue/compiler-sfc": "^3.0.0-beta.9",
+    "eslint": "^7.18.0",
+    "eslint-plugin-vue": "^7.5.0"
+  },
+  "keywords": [
+    "vue3",
+    "vuejs",
+    "vue.js"
+  ],
+  "name": "vue-3",
+  "description": null
+}
